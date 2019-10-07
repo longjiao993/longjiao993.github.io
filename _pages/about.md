@@ -14,4 +14,4 @@ VA, USA, since 2016, where he is currently a Ph.D. student.
 His current fields of interest include 5G Physical Layer Security, mmWave communication, mmWave HetNets and Deep
 Learning.
 
-> <span style="font-family:Papyrus; font-size:1em;">*It is not the strongest of the species that survives, nor the most intelligent , but the one most responsive to change.*--Charles Darwin </span> 
+> <span style="font-family:Papyrus; font-size:2em;">*It is not the strongest of the species that survives, nor the most intelligent , but the one most responsive to change.*--Charles Darwin </span> 
