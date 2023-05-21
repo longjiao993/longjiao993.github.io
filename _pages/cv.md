@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-* George Mason University, Fairfax, VA, USA, 2016.09 - 2023.05, Electrical and Computer Engineering, phD candidate
+* George Mason University, Fairfax, VA, USA, 2016.09 - 2023.05
+  Electrical and Computer Engineering, phD candidate
 
 * George Mason University, Fairfax, VA, USA, 2017.08 - 2022.05, Electrical and Computer Engineering, Master of Science
 
