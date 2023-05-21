@@ -8,6 +8,8 @@ author_profile: true
 * **L. Jiao**, N. Wang, P. Wang, A. Alipour-Fanid, J. Tang, K. Zeng, Physical Layer Key Generation in 5G Wireless Networks, to appear in IEEE Wireless Communications Magazine, 2019
 * N. Wang, **L. Jiao**, A. Alipour-Fanid, M. Dabaghchian, K. Zeng, Pilot Contamination Attack Detection for NOMA in 5G Mm-Wave Massive MIMO Networks, IEEE Transactions on Information Forensics and Security, 2019
 * N. Wang, P. Wang, A. Alipour-Fanid, **L. Jiao**, K. Zeng, Physical Layer Security of 5G Wireless Networks for IoT: Challenges and Opportunities, IEEE Internet of Things Journal, 2019
+* N. Wang, P. Wang, A. Alipour-Fanid, **L. Jiao**, K. Zeng, Physical Layer Security of 5G Wireless Networks for IoT: Challenges and Opportunities, IEEE Internet of Things Journal, 2019
+
 
 
 **Conference Papers**
