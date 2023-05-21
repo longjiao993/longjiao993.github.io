@@ -13,5 +13,5 @@ redirect_from:
 
 * George Mason University, Fairfax, VA, USA, 2017.08 - 2022.05, Electrical and Computer Engineering, Master of Science
 
-* Xidian University, Xi'an, China, 2012.08 - 2016.06, Bachelor of Information Security
+* Xidian University, Xi'An, China, 2012.08 - 2016.06, Bachelor of Information Security
 
