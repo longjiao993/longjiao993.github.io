@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 **Referred Journals**
-* **L.Jiao**, K.Zeng: Efficient Physical Layer Group Key Generation in 5G mmWave Massive MIMO Wireless Networks, IEEE Transactions on Information Forensics Security (Under review), Jun 2022.
 * **L.Jiao**, G.Yao, K.Zeng, Ben Hilburn: PU Location Privacy Protection in Spectrum Sharing Systems, IEEE Transactions on Cognitive Communications and Networking (Under major revision), 2022 Jun.
 * **L.Jiao**, N Wang, P Wang, A Alipour-Fanid, J Tang, K Zeng: Physical layer key generation in 5G wireless networks IEEE Wireless Communications, vol. 26, no. 5, pp. 48-54, Oct. 2019. (impact factor 11.98)
 * **L.Jiao**, P Wang, A Alipour-Fanid, H Zeng, K Zeng: Enabling Efficient Blockage-Aware Handover in RIS-Assisted mmWave Cellular Networks, IEEE Transactions on Wireless Communications, 21(4):2243-57, Sep 2021.
