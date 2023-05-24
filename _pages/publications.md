@@ -23,14 +23,14 @@ author_profile: true
 * G.Li, L.Hu, **L.Jiao**, K.Zeng, C.Sun, A.Hu, Impact of Reconfigurable Intelligent Surfaces on Physical Layer Key Generation in NextG Wireless Networks, Physical Layer Security for 6G, 2022.
 
 **Refereed Conference Papers**
-* **L.Jiao**, P.Wang, N.Wang, S.Chen, A.Alipour-Fanid, J.Le, K.Zeng: Efficient Physical Layer Group Key Generation in 5G Wireless Networks, IEEE Conference on Communications and Network Security (CNS), July, 2020.
-* **L.Jiao**, G.Sun, J.Le, K.Zeng: Machine learning-assisted wireless phy key generation with reconfigurable intelligent surfaces, Proceedings of the 3rd ACM Workshop on Wireless Security and Machine.), June 28–July 2, 2021, Abu Dhabi, United Arab Emirates.
-* **L.Jiao**, N.Wang, K.Zeng: Secret beam: Robust secret key agreement for mmWave massive MIMO 5G communication, IEEE Globecom 2018, December 9-13, 2018, Abu Dhabi, UAE.
-* **L.Jiao**, J.Tang, K.Zeng: Physical layer key generation using virtual AoA and AoD of mmWave massive MIMO channel, IEEE Conference on Communications and Network Security (CNS), Beijing, China, May 30 - June 1, 2018.
-* Y.Jiang, **L.Jiao**, L.Zhao, K.Zeng: Beam Pattern Fingerprinting with Missing Features for Spoofing Attack Detection in Millimeter-Wave Networks, Proceedings of the 2022 ACM Workshop on Wireless Security and Machine Learning, May 16 - 19, 2022, San Antonio, Texas, USA.
-* P Wang, **L.Jiao**, K.Zeng, Z.Yan: Physical Layer Key Generation between Backscatter Devices over Ambient RF Signals, IEEE Conference on Computer Communications (INFOCOM), May 2021.
-* N.Wang, **L.Jiao**, P.Wang, W.Li, K.Zeng: Machine learning-based spoofing attack detection in mmWave 60GHz IEEE 802.11 ad networks, IEEE Conference on Computer Communications (INFOCOM), 20, July 2020.
-* J.Tang, **L.Jiao**, N.Wang, P.Wang, K.Zeng, H.Wen: Mobility improves noma physical layer security, IEEE global communications conference (GLOBECOM), Abu Dhabi, UAE, December 9 - 13, 2018.
-* N.Wang, **L.Jiao**, P.Wang, M.Dabaghchian, K.Zeng: Efficient identity spoofing attack detection for iot in mm-wave and massive mimo 5g communication, IEEE Global Communications Conference (GLOBECOM), Abu Dhabi, UAE, December 9 - 13, 2018.
-* N Wang, **L.Jiao**, K Zeng: Pilot contamination attack detection for NOMA in mm-wave and massive MIMO 5G communication, IEEE Conference on Communications and Network Security (CNS), Beijing, China, May 30 - June 1, 2018.
-* S.Chen, S.Wang, X.Xu, **L.Jiao**, H.Wen: Physical Layer Security Authentication Based Wireless Industrial Communication System for Spoofing Detection, IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), May, 2022.
+* **L.Jiao**, P.Wang, N.Wang, S.Chen, A.Alipour-Fanid, J.Le, K.Zeng, "Efficient Physical Layer Group Key Generation in 5G Wireless Networks", IEEE Conference on Communications and Network Security (CNS), July, 2020.
+* **L.Jiao**, G.Sun, J.Le, K.Zeng, "Machine learning-assisted wireless phy key generation with reconfigurable intelligent surfaces", Proceedings of the 3rd ACM Workshop on Wireless Security and Machine.), June 28–July 2, 2021, Abu Dhabi, United Arab Emirates.
+* **L.Jiao**, N.Wang, K.Zeng, "Secret beam: Robust secret key agreement for mmWave massive MIMO 5G communication", IEEE Globecom 2018, December 9-13, 2018, Abu Dhabi, UAE.
+* **L.Jiao**, J.Tang, K.Zeng, "Physical layer key generation using virtual AoA and AoD of mmWave massive MIMO channel", IEEE Conference on Communications and Network Security (CNS), Beijing, China, May 30 - June 1, 2018.
+* Y.Jiang, **L.Jiao**, L.Zhao, K.Zeng, "Beam Pattern Fingerprinting with Missing Features for Spoofing Attack Detection in Millimeter-Wave Networks", Proceedings of the 2022 ACM Workshop on Wireless Security and Machine Learning, May 16 - 19, 2022, San Antonio, Texas, USA.
+* P Wang, **L.Jiao**, K.Zeng, Z.Yan, "Physical Layer Key Generation between Backscatter Devices over Ambient RF Signals", IEEE Conference on Computer Communications (INFOCOM), May 2021.
+* N.Wang, **L.Jiao**, P.Wang, W.Li, K.Zeng, "Machine learning-based spoofing attack detection in mmWave 60GHz IEEE 802.11 ad networks", IEEE Conference on Computer Communications (INFOCOM), 20, July 2020.
+* J.Tang, **L.Jiao**, N.Wang, P.Wang, K.Zeng, H.Wen, "Mobility improves noma physical layer security", IEEE global communications conference (GLOBECOM), Abu Dhabi, UAE, December 9 - 13, 2018.
+* N.Wang, **L.Jiao**, P.Wang, M.Dabaghchian, K.Zeng, "Efficient identity spoofing attack detection for iot in mm-wave and massive mimo 5g communication", IEEE Global Communications Conference (GLOBECOM), Abu Dhabi, UAE, December 9 - 13, 2018.
+* N Wang, **L.Jiao**, K Zeng, "Pilot contamination attack detection for NOMA in mm-wave and massive MIMO 5G communication", IEEE Conference on Communications and Network Security (CNS), Beijing, China, May 30 - June 1, 2018.
+* S.Chen, S.Wang, X.Xu, **L.Jiao**, H.Wen, "Physical Layer Security Authentication Based Wireless Industrial Communication System for Spoofing Detection", IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), May, 2022.
