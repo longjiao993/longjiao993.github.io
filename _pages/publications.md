@@ -5,18 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 **Referred Journals**
-* **L.Jiao**, G.Yao, K.Zeng, Ben Hilburn: PU Location Privacy Protection in Spectrum Sharing Systems, IEEE Transactions on Cognitive Communications and Networking (Under major revision), 2022 Jun.
-* **L.Jiao**, N Wang, P Wang, A Alipour-Fanid, J Tang, K Zeng: Physical layer key generation in 5G wireless networks IEEE Wireless Communications, vol. 26, no. 5, pp. 48-54, Oct. 2019. (impact factor 11.98)
-* **L.Jiao**, P Wang, A Alipour-Fanid, H Zeng, K Zeng: Enabling Efficient Blockage-Aware Handover in RIS-Assisted mmWave Cellular Networks, IEEE Transactions on Wireless Communications, 21(4):2243-57, Sep 2021.
-* N Wang **L.Jiao**, P.Wang, W.Li, K.Zeng: Exploiting beam features for spoofing attack detection in mmWave 60-GHz IEEE 802.11 ad networks, IEEE Transactions on Wireless Communications, vol. 20, no. 5, pp. 3321-3335, Jan. 2021.
-* J.Tang, **L.Jiao**, K.Zeng, H.Wen, K.Govindan, D.Wu, P.Mohapatra: Identity-Based Attack Detection and Classification Utilizing Reciprocal RSS Variations in Mobile Wireless Networks, IEEE Transactions on Mobile Computing, Oct 2020.
-* J.Tang, **L.Jiao**, K.Zeng, H.Wen, KY.Qin: Physical layer secure MIMO communications against eavesdroppers with arbitrary number of antennas, IEEE Transactions on Information Forensics and Security, vol. 16, pp. 466 - 481, Aug. 2020. (Impact factor: 8.220)
-* N.Wang, **L.Jiao**, A.Alipour-Fanid, M.Dabaghchian, K.Zeng: Pilot contamination attack detection for NOMA in 5G mm-wave massive MIMO networks, IEEE Transactions on Information Forensics and Security, vol. 7, no. 8, pp. 7764-7772, Aug. 2020. (Impact factor: 11.750)
-* N.Wang, W.Li, A.Alipour-Fanid, **L.Jiao**, M.Dabaghchian, K.Zeng: Pilot contamination attack detection for 5G mmwave grant-free IoT networks, IEEE Transactions on Information Forensics and Security, vol. 16, pp. 658-670, Aug. 2020.
-* N.Wang, W.Li, P.Wang, A.Alipour-Fanid, **L.Jiao**, K.Zeng: Physical layer authentication for 5G communications: Opportunities and road ahead, IEEE Network, vol. 34, no. 6, pp. 198-204, Dec. 2020.
-* N.Wang, P.Wang, A.Alipour-Fanid, **L.Jiao**, K.Zeng: Physical-layer security of 5G wireless networks for IoT: Challenges and opportunities, IEEE Internet of Things Journal, 2019 Jul 9;6(5):8169-81.
-* W.Li, N.Wang, **L.Jiao**, K.Zeng: Physical layer spoofing attack detection in MmWave massive MIMO 5G networks, IEEE Access, vol. 9, pp. 60419-60432, April. 2021.
-* A.Alipour-Fanid, M.Dabaghchian, N.Wang, **L.Jiao**, K.Zeng: Online-learning-based defense against jamming attacks in multichannel wireless CPS, IEEE Internet of Things Journal, 8(17):13278-90, Mar, 2021.
+* **L.Jiao**, G.Yao, K.Zeng, Ben Hilburn, "PU Location Privacy Protection in Spectrum Sharing Systems", IEEE Transactions on Cognitive Communications and Networking (Under major revision), Jun. 2022.
+* **L.Jiao**, N Wang, P Wang, A Alipour-Fanid, J Tang, K Zeng, "Physical layer key generation in 5G wireless networks IEEE Wireless Communications", vol. 26, no. 5, pp. 48-54, Oct. 2019. (impact factor 11.98)
+* **L.Jiao**, P Wang, A Alipour-Fanid, H Zeng, K Zeng, "Enabling Efficient Blockage-Aware Handover in RIS-Assisted mmWave Cellular Networks", IEEE Transactions on Wireless Communications, 21(4):2243-57, Sep. 2021.
+* N Wang **L.Jiao**, P.Wang, W.Li, K.Zeng, "Exploiting beam features for spoofing attack detection in mmWave 60-GHz IEEE 802.11 ad networks", IEEE Transactions on Wireless Communications, vol. 20, no. 5, pp. 3321-3335, Jan. 2021.
+* J.Tang, **L.Jiao**, K.Zeng, H.Wen, K.Govindan, D.Wu, P.Mohapatra, "Identity-Based Attack Detection and Classification Utilizing Reciprocal RSS Variations in Mobile Wireless Networks", IEEE Transactions on Mobile Computing, Oct. 2020.
+* J.Tang, **L.Jiao**, K.Zeng, H.Wen, KY.Qin, "Physical layer secure MIMO communications against eavesdroppers with arbitrary number of antennas", IEEE Transactions on Information Forensics and Security, vol. 16, pp. 466 - 481, Aug. 2020. (Impact factor: 8.220)
+* N.Wang, **L.Jiao**, A.Alipour-Fanid, M.Dabaghchian, K.Zeng, "Pilot contamination attack detection for NOMA in 5G mm-wave massive MIMO networks", IEEE Transactions on Information Forensics and Security, vol. 7, no. 8, pp. 7764-7772, Aug. 2020. (Impact factor: 11.750)
+* N.Wang, W.Li, A.Alipour-Fanid, **L.Jiao**, M.Dabaghchian, K.Zeng, "Pilot contamination attack detection for 5G mmwave grant-free IoT networks", IEEE Transactions on Information Forensics and Security, vol. 16, pp. 658-670, Aug. 2020.
+* N.Wang, W.Li, P.Wang, A.Alipour-Fanid, **L.Jiao**, K.Zeng, "Physical layer authentication for 5G communications: Opportunities and road ahead", IEEE Network, vol. 34, no. 6, pp. 198-204, Dec. 2020.
+* N.Wang, P.Wang, A.Alipour-Fanid, **L.Jiao**, K.Zeng, "Physical-layer security of 5G wireless networks for IoT: Challenges and opportunities", IEEE Internet of Things Journal, Jul. 2019.
+* W.Li, N.Wang, **L.Jiao**, K.Zeng, "Physical layer spoofing attack detection in MmWave massive MIMO 5G networks", IEEE Access, vol. 9, pp. 60419-60432, April. 2021.
+* A.Alipour-Fanid, M.Dabaghchian, N.Wang, **L.Jiao**, K.Zeng, "Online-learning-based defense against jamming attacks in multichannel wireless CPS", IEEE Internet of Things Journal, 8(17):13278-90, Mar. 2021.
 
 **Book Chapters**
 * N.Wang, **L.Jiao**, J.Tang, K.Zeng: Physical-layer security for mmWave massive MIMO communications in 5G networks, Frontiers in Hardware Security and Trust: Theory, design and practice.
