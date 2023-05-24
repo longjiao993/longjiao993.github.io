@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Long Jiao (ljiao@gmu.edu) received B.Sc. degree in Information Security from Xidian University (XDU), Xian, China,
-in 2016. He has been with George Mason University, Fairfax,
-VA, USA, since 2016, where he is currently a Ph.D. student.
-His current fields of interest include 5G Physical Layer Security, mmWave communication, mmWave HetNets and Deep
-Learning.
+Long Jiao got his Ph.D. from Department of Electrical and Computer Engineering at George Mason University (GMU) in May 2023. He earned his M.S. in electrical and computer engineering at George Mason University, and a B.S. in information security from Xidian University, China. He has broad interests in cybersecurity and wireless networking with emphasis on physical layer security, cyber physical systems/IoT security, spectrum sharing security, and machine learning application in wireless security. His research has been supported by NSF, DARPA, ARO, and Virginia Commonwealth Cyber Initiative (CCI). In his Ph.D. study, he has published 20+ papers in prestigious journals and conferences, including IEEE Transactions on Information Forensics and Security, IEEE Wireless Communications, IEEE Network, IEEE INFOCOM, and IEEE CNS. He served as teaching assistant in one undergraduate-level cybersecurity course and guest lecturer in one graduate-level cybersecurity course.
 
 > <span style="font-family:Papyrus; font-size:1em;">*It is not the strongest of the species that survives, nor the most intelligent , but the one most responsive to change.*--Charles Darwin </span> 
