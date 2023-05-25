@@ -19,8 +19,8 @@ author_profile: true
 * A.Alipour-Fanid, M.Dabaghchian, N.Wang, **L.Jiao**, K.Zeng, "Online-learning-based defense against jamming attacks in multichannel wireless CPS", IEEE Internet of Things Journal, 8(17):13278-90, Mar. 2021.
 
 **Book Chapters**
-* N.Wang, **L.Jiao**, J.Tang, K.Zeng, "Physical-layer security for mmWave massive MIMO communications in 5G networks", Frontiers in Hardware Security and Trust: Theory, design and practice".
 * G.Li, L.Hu, **L.Jiao**, K.Zeng, C.Sun, A.Hu, "Impact of Reconfigurable Intelligent Surfaces on Physical Layer Key Generation in NextG Wireless Networks", Physical Layer Security for 6G, 2022.
+* N.Wang, **L.Jiao**, J.Tang, K.Zeng, "Physical-layer security for mmWave massive MIMO communications in 5G networks", Frontiers in Hardware Security and Trust: Theory, design and practice, Nov. 2020.
 
 **Refereed Conference Papers**
 * **L.Jiao**, P.Wang, N.Wang, S.Chen, A.Alipour-Fanid, J.Le, K.Zeng, "Efficient Physical Layer Group Key Generation in 5G Wireless Networks", IEEE Conference on Communications and Network Security (CNS), July, 2020.
