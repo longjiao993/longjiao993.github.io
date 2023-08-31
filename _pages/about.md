@@ -9,11 +9,11 @@ redirect_from:
 ---
 **Long Jiao**
 
-Assistant Professor
-Department of Computer & Information Science
-College of Engineering
-Office:Dion 317A
-Address: 285 Old Westport Road, Dartmouth, MA 02747
+Assistant Professor\
+Department of Computer & Information Science\
+College of Engineering\
+Office:Dion 317A\
+Address: 285 Old Westport Road, Dartmouth, MA 02747\
 Email: ljiao AT umassd.edu
 
 **Biography**
