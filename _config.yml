@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Long's Homepage"
 title_separator          : "-"
 name                     : &name "Long Jiao"
-description              : &description "Ph.D. Student in ECE Department"
+description              : &description "Assistant Professor in CIS Department"
 url                      : https://longjiao993.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "longjiao993/longjiao993.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Long Jiao"
   avatar           : "IMG_20190701_154111.jpg"
-  bio              : "Graduate Research Assistant in George Mason University"
-  location         : "Fairfax, VA"
+  bio              : "Assistant Professor in UMass Dartmouth"
+  location         : "Boston, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=lMtcRhsAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
